@@ -1,4 +1,4 @@
 # Data-Analytics-Capstone
 
-## Sports Data Analysis for College Recruitment
+## Analysis of Academic Scores for NCAA Athletic Programs in Preparation for College Selection
 by M. Susie Smith

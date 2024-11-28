@@ -29,5 +29,4 @@ The focus of this project is to deliver information on which colleges would be t
 The data for this project was obtained through Kaggle. The link to the dataset is provided here: https://www.kaggle.com/datasets/ncaa/academic-scores
 The dataset is comprised of structured data consisting of integers, decimals and string fields. The original dataset has around 6500 records with each record containing 57 fields. There are a few fields that are not value-added to the analysis, so they have been deleted from the dataset. The records were deleted from the dataset by simply using filters in an excel table, deleting the records once identified, and saving the resulting excel file as a csv. Saving as this type of file ensures that the dataset canb be read into the R program used. Table 1 shows the resulting dataset with its different fields, their descriptions and the data types.
 
-
-(image.png)
+![alt text](image.png)
